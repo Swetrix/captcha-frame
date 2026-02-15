@@ -1,5 +1,8 @@
 <img src="/src/assets/logo_blue.png" alt="" height="80" />
 
+> [!NOTE]
+> This repository has been archived. Development has moved to the [Swetrix monorepo](https://github.com/Swetrix/swetrix) under [`packages/captcha`](https://github.com/Swetrix/swetrix/tree/main/packages/captcha). Please open issues and pull requests there instead.
+
 ## Description
 
 Swetrix CAPTCHA is a privacy-oriented, simple and opensource CAPTCHA service.
